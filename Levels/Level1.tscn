@@ -533,7 +533,7 @@ position = Vector2( 281.133, 263.169 )
 texture = ExtResource( 8 )
 
 [node name="Exit_to_2" type="Area2D" parent="."]
-position = Vector2( 2815.17, 320.135 )
+position = Vector2( 2813.57, 320.135 )
 script = ExtResource( 7 )
 __meta__ = {
 "_edit_group_": true
